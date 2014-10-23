@@ -1,2 +1,6 @@
 "conflict" 
+<<<<<<< HEAD
 "b" 
+=======
+"ab" 
+>>>>>>> feature1
